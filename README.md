@@ -13,7 +13,7 @@ In case of you got error with importing pandas nowadays, use pip install numpy==
 
 ## How it works ?
 
-- I are create a random matrix between 5-100, Then create 20 agents. 
+- I created a random matrix between 5-100, Then create 20 agents. 
 - I chose a true path to simulate the road between home and food.
 - At the beginning ants makes first decisions randomly. After they reach the food, then pheromone is starting to influence the ants to make decisions in particular ratio.
 
